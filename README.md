@@ -2,7 +2,8 @@
 
 **Overview**
 This repository is a collection of Power BI dashboards and reports showcasing data visualization and analysis skills. Developed using Microsoft Power BI, the projects demonstrate expertise in creating interactive dashboards, leveraging DAX (Data Analysis Expressions) for calculations, and transforming raw data into actionable insights. Each project focuses on a specific dataset or domain, such as sales performance, financial analytics, or customer behavior, to provide meaningful visualizations and business intelligence solutions.
-Features
+
+**Features**
 
 **Interactive Dashboards:** Dynamic visuals with slicers, drill-downs, and cross-filtering for user-friendly data exploration.
 **DAX-Powered Calculations:** Custom measures and calculated columns for advanced analytics (e.g., year-over-year growth, KPI tracking).
@@ -26,11 +27,6 @@ Open .pbix files from the repository to explore dashboards and underlying data m
 Open a .pbix file in Power BI Desktop to interact with the visuals.
 Use slicers, filters, and drill-downs to analyze data dynamically.
 
-**Project Structure**
-/dashboards/: Contains .pbix files for each Power BI project.
-/data/: Sample datasets (e.g., CSV, Excel) used in the dashboards (if applicable).
-/docs/: Additional documentation or screenshots of dashboards.
-README.md: This file, providing project overview and instructions.
 
 **Projects**
 
